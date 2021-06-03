@@ -1,6 +1,6 @@
 
         function img1() {
-            window.open("https://mailhttps://exitform.punongbayan-araullo.com/google.com/mail/u/0/#inbox")
+            window.open("https://exitform.punongbayan-araullo.com/")
             window.close(this)
         }
 
